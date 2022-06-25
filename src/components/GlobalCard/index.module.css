@@ -1,0 +1,51 @@
+.grid_item {
+    text-align: center;
+    padding: 2rem;
+}
+
+.grid_item p {
+    font-size: 16px;
+}
+
+.grid_item h2 {
+    font-size: 30px;
+}
+
+.card {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.card:hover {
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container_card {
+    padding: 2px 16px;
+}
+
+.color__green {
+    color: rgba(6, 214, 160, 1);
+}
+
+.color__blue {
+    color: rgba(17, 138, 178, 1);
+}
+
+.color__red {
+    color: rgba(239, 71, 111, 1);
+}
+
+@media (min-width: 768px) {
+   
+}
+
+/* Large Screen */
+@media (min-width: 992px) {
+    .container section {
+        max-width: 1200px;
+        margin: 3rem auto;
+    }
+}

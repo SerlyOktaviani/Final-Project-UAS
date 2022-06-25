@@ -1,0 +1,39 @@
+.container {
+    margin: 3rem auto !important; 
+    padding: 1rem;
+  }
+
+.container section {
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+@media (min-width: 992px) {
+    .container {
+      max-width: 1200px;
+    }
+  }
+
+  table, td, th {
+    border: 1px solid rgba(100, 116, 139, 1);
+    padding: 6px 8px;
+    
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .color__green {
+    color: rgba(6, 214, 160, 1);
+}
+
+.color__blue {
+    color: rgba(17, 138, 178, 1);
+}
+
+.center{
+  text-align: center;
+}
+  
