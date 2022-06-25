@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Final-Project-UAS/static/css/main.48e57680.css",
+    "main.js": "/Final-Project-UAS/static/js/main.43bac685.js",
+    "static/media/Hero.svg": "/Final-Project-UAS/static/media/Hero.66eb13d1176d4f28f531dab98aead736.svg",
+    "static/media/FormCovid.svg": "/Final-Project-UAS/static/media/FormCovid.4760bea895466e003ae78d3bb4b750b7.svg",
+    "index.html": "/Final-Project-UAS/index.html",
+    "main.48e57680.css.map": "/Final-Project-UAS/static/css/main.48e57680.css.map",
+    "main.43bac685.js.map": "/Final-Project-UAS/static/js/main.43bac685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e57680.css",
+    "static/js/main.43bac685.js"
+  ]
+}
